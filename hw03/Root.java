@@ -26,6 +26,6 @@ import java.util.Scanner;
         double guess4=(guess3*guess3*guess3+ncuberoot)/(3*guess3*guess3);
         double guess5=(guess4*guess4*guess4+ncuberoot)/(3*guess4*guess4);
         double guess6=(guess5*guess5*guess5+ncuberoot)/(3*guess5*guess5);
-        System.out.println("The cube root is"+ guess6);
+        System.out.println("The cube root is "+ guess6);
         }
     }
