@@ -308,7 +308,7 @@ public class ToHex{
              break;
         case 3:
              hexBB = "3"; 
-             break;
+             break; 
         case 4:
              hexBB = "4"; 
              break;
